@@ -1,0 +1,24 @@
+.nav {
+  top: 0;
+  background-color: #fffbfb;
+  padding: 10px 10px;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav ul {
+  padding: 0 100px;
+  display: flex;
+  gap: 50px;
+}
+
+.nav li {
+  list-style: none;
+}
+
+.nav .logo {
+  padding: 0 20px;
+}
